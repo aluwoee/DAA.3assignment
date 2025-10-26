@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.daa</groupId>
-    <artifactId>DAA_Assignment_3</artifactId>
+    <artifactId>DAA.3assignment</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
